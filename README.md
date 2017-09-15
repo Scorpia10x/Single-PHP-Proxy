@@ -4,7 +4,7 @@ Single-file web proxy application with full features in PHP.
 
 ## Configuration:
 
-Setup a PHP environment and put the SinglePHPProxy.php in the web folder and that's it. (The filename of the SinglePHPProxy.php can be changed as you wish)
+Setup a PHP environment and put the SinglePHPProxy.php in the web folder (The filename of the SinglePHPProxy.php can be changed as you wish). That's it.
 
 ## Features:
 
